@@ -54,6 +54,22 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UMLDiagramClasses\AccessoriesStorage.cs" />
+    <Compile Include="UMLDiagramClasses\Accessory.cs" />
+    <Compile Include="UMLDiagramClasses\Cab.cs" />
+    <Compile Include="UMLDiagramClasses\CabsStorage.cs" />
+    <Compile Include="UMLDiagramClasses\Car.cs" />
+    <Compile Include="UMLDiagramClasses\CarsStorage.cs" />
+    <Compile Include="UMLDiagramClasses\Dealer.cs" />
+    <Compile Include="UMLDiagramClasses\Detail.cs" />
+    <Compile Include="UMLDiagramClasses\DetailsStorage.cs" />
+    <Compile Include="UMLDiagramClasses\Employee.cs" />
+    <Compile Include="UMLDiagramClasses\Engine.cs" />
+    <Compile Include="UMLDiagramClasses\EnginesStorage.cs" />
+    <Compile Include="UMLDiagramClasses\Gatherer.cs" />
+    <Compile Include="UMLDiagramClasses\Person.cs" />
+    <Compile Include="UMLDiagramClasses\Provider.cs" />
+    <Compile Include="UMLDiagramClasses\Storage.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
